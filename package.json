@@ -1,0 +1,17 @@
+{
+  "name": "tetuii",
+  "version": "1.0.0",
+  "description": "Projeto realizado para a segunda unidade da disciplina de topicos especiais em engenharia de software com foco em testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rennanfelipe7",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.2"
+  }
+}
